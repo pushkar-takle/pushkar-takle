@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**pushkar-takle/pushkar-takle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Pushkar Takle 👋
 
-Here are some ideas to get you started:
+🎓 CSE Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a Computer Science student passionate about programming, problem-solving, and building projects.
+
+## 💻 Skills
+- C Programming
+- C++
+- HTML & CSS
+- PHP & MySQL
+
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Web Development
+- Software Development
+
+## 🚀 Projects
+- C Programming Practice
+- Web Development Projects
+- Hotel QR Code Food Ordering System
+
+## 🎯 Goals
+- Practice coding regularly
+- Build real-world projects
+- Improve problem-solving skills
+
+## 📫 Connect with Me
+- GitHub: [pushkar-takle](https://github.com/pushkar-takle)
